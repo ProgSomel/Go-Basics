@@ -604,7 +604,7 @@ main package init
 main function
 ```
 
-**_⚠️ Things to Remember_**
+**⚠️ Things to Remember**
 
 - ❗ init() cannot be called manually
 - ❗ It must be declared with no parameters and no return values
@@ -843,7 +843,7 @@ func main(){
 }
 ```
 
-**🧠 Functions as First-Class Citizens**
+*🧠 Functions as First-Class Citizens*
 In Go, functions are first-class citizens. This means:
 You can assign functions to variables.
 You can pass functions as arguments.
