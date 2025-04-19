@@ -10,8 +10,7 @@
 4. ইনস্টল শেষে `Command Prompt` খুলুন, লিখুন:
 
 ```bash
-bash
-CopyEdit
+
 go version
 
 ```
@@ -52,8 +51,7 @@ go version
 3. নিচের কোড লিখুন:
 
 ```go
-go
-CopyEdit
+
 package main
 
 import "fmt"
@@ -68,8 +66,7 @@ func main() {
 2. নিচের কমান্ড রান করুন:
 
 ```bash
-bash
-CopyEdit
+
 go run main.go
 
 ```
